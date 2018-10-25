@@ -23,5 +23,8 @@ a.social-btn:hover{ color:#9c9c9c;
 }
 .padding-sm {padding: 3rem 0;}
 .padding {padding: 5rem 0;}
+.footer .text-right a:first-of-type {padding-bottom: 10px;}
+.footer, .footer a:focus {color:#d9d9d9; text-decoration: none; }
+@media (min-width: 992px) {
 .footer .text-right a:first-of-type {padding-right: 30px;}
-.footer, .footer a:focus {color:#d9d9d9; text-decoration: nonel }
+}
