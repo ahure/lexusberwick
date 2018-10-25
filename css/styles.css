@@ -1,0 +1,27 @@
+
+@font-face { font-family: Nobel-Book; src: url("../fonts/Nobel-Book.otf"); }
+@font-face { font-family: Nobel-Bold; font-weight: bold; src: url("../fonts/Nobel-Bold.otf");}
+body{ font-size: 16px; font-family: 'Nobel-Book', sans-serif; width: 100%; height: 100%; margin: 0; font-weight: 400; letter-spacing: 2px;
+	-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; word-wrap: break-word; overflow-x: hidden;
+	color: #111111; }
+h1{ font-family: Nobel,Arial,sans-serif; font-weight: 700; font-size: 32px;}
+h2{ font-size: 3em;}
+h3{ font-size: 2.5em; }
+h4{ font-size: 1.5em; }
+h5{ font-size: 1.2em; font-family: Nobel-Bold; font-weight: bold; }
+h6{ font-size: 1.0em; font-weight: bold; padding-bottom: 20px;}
+p { font-size: 1.0em; }
+a, button{ display: inline-block; text-decoration: none; color: inherit; transition: all .3s; line-height: 1; }
+a:hover { text-decoration: none; color: #fff }
+img{ width: 100%; }
+span{ display: inline-block; }
+.main-area{ height: 100%;}
+.footer {    background-color: #111; color: #fff;}
+.footer p {font-weight: 400; letter-spacing: 2px; margin: 0;}
+.social-btn { padding: 10px;}
+a.social-btn:hover{ color:#9c9c9c;
+}
+.padding-sm {padding: 3rem 0;}
+.padding {padding: 5rem 0;}
+.footer .text-right a:first-of-type {padding-right: 30px;}
+.footer, .footer a:focus {color:#d9d9d9; text-decoration: nonel }
