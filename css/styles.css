@@ -21,6 +21,9 @@ span{ display: inline-block; }
 .social-btn { padding: 10px;}
 a.social-btn:hover{ color:#9c9c9c;
 }
+a.social-btn {
+	font-size: 30px;
+}
 .padding-sm {padding: 3rem 0;}
 .padding {padding: 5rem 0;}
 .footer .text-right a:first-of-type {padding-bottom: 10px;}
