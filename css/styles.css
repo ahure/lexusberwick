@@ -3,7 +3,7 @@
 @font-face { font-family: Nobel-Bold; font-weight: bold; src: url("../fonts/Nobel-Bold.otf");}
 body{ font-size: 16px; font-family: 'Nobel-Book', sans-serif; width: 100%; height: 100%; margin: 0; font-weight: 400; letter-spacing: 2px;
 	-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; word-wrap: break-word; overflow-x: hidden;
-	color: #111111; }
+	color: #232635; background-color: #f0eee6;}
 h1{ font-family: Nobel,Arial,sans-serif; font-weight: 700; font-size: 32px;}
 h2{ font-size: 3em;}
 h3{ font-size: 2.5em; }
@@ -16,13 +16,13 @@ a:hover { text-decoration: none; color: #fff }
 img{ width: 100%; }
 span{ display: inline-block; }
 .main-area{ height: 100%;}
-.footer {    background-color: #111; color: #fff;}
+.footer {    background-color: #232635; color: #d8d3c6;}
 .footer p {font-weight: 400; letter-spacing: 2px; margin: 0;}
 .social-btn { padding: 10px;}
 a.social-btn:hover{ color:#9c9c9c;
 }
 a.social-btn {
-	font-size: 30px;
+	font-size: 25px;
 	padding: 10px;
 }
 .padding-sm {padding: 3rem 0;}
