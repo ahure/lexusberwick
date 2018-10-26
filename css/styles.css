@@ -23,6 +23,7 @@ a.social-btn:hover{ color:#9c9c9c;
 }
 a.social-btn {
 	font-size: 30px;
+	padding: 10px;
 }
 .padding-sm {padding: 3rem 0;}
 .padding {padding: 5rem 0;}
